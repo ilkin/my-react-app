@@ -1,0 +1,10 @@
+export { ControlledFomPage } from './ControlledFormPage';
+export { UncontrolledFormPage } from './UncontrolledFormPage'
+export { CounterButtonPage } from './CounterButtonPage';
+export { HomePage } from './HomePage';
+export { PeopleListPage } from './PeopleListPage';
+export { NotFoundPage } from './NotFoundPage';
+export { ProtectedPage } from './ProtectedPage';
+export { NavBar } from './NavBar';
+export { FormsNavBar } from './FormsNavBar';
+export { UserProfilePage } from './UserProfilePage';
